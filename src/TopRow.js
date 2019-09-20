@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import Home from "./Home";
 import Timer from "./Timer";
 import Away from "./Away";
