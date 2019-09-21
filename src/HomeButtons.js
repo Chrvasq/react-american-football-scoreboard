@@ -10,7 +10,6 @@ const HomeButtons = props => {
             homeScore: props.score.homeScore + 7,
             awayScore: props.score.awayScore
           });
-          console.log(props.score);
         }}
       >
         Home Touchdown
